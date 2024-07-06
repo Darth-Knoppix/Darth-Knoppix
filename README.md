@@ -1,4 +1,6 @@
-## 👋 I'm Seth
+![hero banner](./banner@2x.png)
+
+## 👋 I'm Seth Corker
 
 I'm a Senior Full Stack Product Engineer at [@zeroheight](https://github.com/zeroheight) in London 🇬🇧. I help build a solution to document design systems 🎨 and aide adoption of those systems across the business.
 
