@@ -23,4 +23,4 @@ Here's [some of the things I've worked on at zeroheight](https://www.linkedin.co
 
 ### 🙋‍♂️ Want to hire me?
 
-If you're looking for a product engineer with experience in React, Ruby on Rails, Django, GraphQL or myriad other technologies. I'm flattered, reach out on [LinkedIn](https://www.linkedin.com/in/sethcorker/)!.
+If you're looking for a product engineer with experience in React, Ruby on Rails, Django, GraphQL or myriad other technologies. I'm flattered, reach out on [LinkedIn](https://www.linkedin.com/in/sethcorker/)!
