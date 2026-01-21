@@ -10,10 +10,9 @@ You can [checkout my blog](https://blog.sethcorker.com/) for articles on web dev
 
 ### 🎯 Current focus at zeroheight
 
-Improving zeroheight for developers:
-- Measuring design system adoption
-- Public API
-- MCP Servers
+Making design systems easier to maintain in zeroheight :
+- Improving design tokens experience
+- Automating the mundane
 
 Here's [some of the things I've worked on at zeroheight](https://www.linkedin.com/posts/zeroheight_have-you-tried-the-new-zeroheight-its-faster-ugcPost-7189555841031700480-kaov).
 
