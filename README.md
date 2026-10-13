@@ -1,4 +1,4 @@
-![hero banner](./banner.png)
+![hero banner](./banner-runway.png)
 
 ## 👋 I'm Seth Corker
 
